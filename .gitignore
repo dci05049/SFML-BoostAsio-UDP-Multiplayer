@@ -1,0 +1,9 @@
+*.suo
+*.user
+*.ncb
+Debug/
+Release/
+CodeAnalyst/
+Debug/
+Release/
+CodeAnalyst/
